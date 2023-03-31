@@ -1,4 +1,5 @@
-import Home from "./components/Home"
+import AboutPage from "./components/Aboutpage";
+import Home from "./components/Home";
 import NavBar from "./components/NavBar"
 import Socials from "./components/Socials";
 
@@ -7,6 +8,7 @@ function App() {
     <div>
       <NavBar/>
       <Home/>
+      <AboutPage/>
       <Socials/>
     </div>
   );

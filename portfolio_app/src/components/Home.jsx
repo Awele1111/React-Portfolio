@@ -1,5 +1,5 @@
 import React from 'react';
-// import aboutImage from '../assets/aboutImage.png';
+import aboutImage from '../assets/aboutImage.jpg';
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 
 const Home = () => {
@@ -20,9 +20,9 @@ const Home = () => {
                 </button>
                     </div>
                 </div>
-                {/* <div>
-                    <img src="{aboutImage}" alt="my profile"  className="rounded-3xl mx-auto w-2/3 md:w-full"/>
-                </div> */}
+                <div>
+                    <img src={aboutImage} alt="my profile"  className="rounded-3xl mx-auto w-2/3 md:w-full"/>
+                </div>
              </div>
         </div>
         
