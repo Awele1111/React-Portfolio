@@ -12,10 +12,10 @@ const Home = () => {
                     <p className="text-grey-600 py-5 max-w-md">I have received training on how to utilize technologies such as React, css libraries such as Tailwind, Node.js and GraphQL.</p>
             
                 <div>
-                <button className="w-fit px-7 py-4 my-3 flex items-center rounded-md bg-gradient-to-r from-purple-300 to-blue-600">
+                <button className="w-fit px-7 py-4 my-3 flex items-center rounded-md bg-gradient-to-r from-purple-300 to-blue-600 cursor-pointer">
                     Portfolio 
-                    <span>
-                    <MdOutlineKeyboardArrowRight/>
+                    <span className="hover:rotate-90 duration-400">
+                    <MdOutlineKeyboardArrowRight size={30} className="ml-2"/>
                     </span>
                 </button>
                     </div>
