@@ -82,13 +82,13 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
-const SocialLinks = () => {
+const Socials = () => {
   const links = [
     {
       id: 1,
       child: (
         <>
-          LinkedIn <FaLinkedinIn size={30} />
+          LinkedIn <FaLinkedinIn size={40} />
         </>
       ),
       href: "https://linkedin.com",
@@ -101,16 +101,16 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/awele1111",
     },
     {
       id: 3,
       child: (
         <>
-          Mail <HiOutlineMail size={30} />
+          Mail <HiOutlineMail size={40} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:awelelan@gmail.com",
     },
     {
       id: 4,
@@ -153,5 +153,5 @@ const SocialLinks = () => {
   );
 };
 
-export default SocialLinks;
+export default Socials;
 
