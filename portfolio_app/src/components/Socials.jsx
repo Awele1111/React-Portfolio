@@ -98,7 +98,7 @@ const Socials = () => {
       id: 2,
       child: (
         <>
-          GitHub <FaGithub size={30} />
+          GitHub <FaGithub size={40} />
         </>
       ),
       href: "https://github.com/awele1111",
@@ -126,13 +126,14 @@ const Socials = () => {
   ];
 
   return (
-    <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
+    <div className="hidden lg:flex flex-col top-[55%] left-2 fixed bg-gradient-to-r from-purple-400 to-blue-500 cursor-pointer"
+    >
       <ul>
         {links.map(({ id, child, href, style, download }) => (
           <li
             key={id}
             className={
-              "flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 bg-gray-500" +
+              "flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 bg-purple-550" +
               " " +
               style
             }
