@@ -61,16 +61,25 @@ const About = () => {
             className="rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer"
           /> */}
           <div>
+          
+          {/* <img
+          src={aboutImage}
+          alt="my profile"
+          className="rounded-2xl mx-auto w-1/2 md:w-full cursor-pointer"
+          /> */}
           <img
-            src={aboutImage}
-            alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer"
-          />
+    src={aboutImage}
+    alt="my profile"
+    className="rounded-full mx-auto w-48 h-48 object-cover object-center"
+    style={{ borderRadius: '50%' }}
+  />
+        </div>
+
         </div>
     
       </div>
       
-    </div>
+    
   );
 };
 
