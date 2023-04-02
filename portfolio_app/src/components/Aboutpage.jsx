@@ -60,20 +60,33 @@ const About = () => {
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer"
           /> */}
-          <div>
+          {/* <div>
           
-          {/* <img
-          src={aboutImage}
-          alt="my profile"
-          className="rounded-2xl mx-auto w-1/2 md:w-full cursor-pointer"
-          /> */}
+          
           <img
     src={aboutImage}
     alt="my profile"
     className="rounded-full mx-auto w-48 h-48 object-cover object-center"
     style={{ borderRadius: '50%' }}
   />
-        </div>
+        </div> */}
+        {/* <div className="text-right">
+  <img
+    src={aboutImage}
+    alt="my profile"
+    className="rounded-2xl mx-auto w-2/3 md:w-1/2 lg:w-1/3 cursor-pointer ml-auto mr-0 mt-4"
+    style={{ marginLeft: "2rem" }}
+  />
+</div> */}
+<div className="float-right mr-2">
+  <img
+    src={aboutImage}
+    alt="my profile"
+    className="rounded-full mx-auto w-39 md:w-50 cursor-pointer"
+  />
+</div>
+
+
 
         </div>
     
