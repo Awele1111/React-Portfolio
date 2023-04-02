@@ -30,9 +30,11 @@ The Footer section presents user with text or icon links to the my GitHub and Li
 
 Below, are screenshots of how my web application currently looks like:
 
-[portfolio](React-portfolio1.png)
-[portfolio](React-portfolio2.png)
-[portfolio](React-portfolio3.png)
+![Portfolio](Assets/React-portfolio1.png)
+
+![Portfolio](Assets/React-portfolio2.png)
+
+![Portfolio](Assets/React-portfolio3.png)
 
 
     
