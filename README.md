@@ -1,39 +1,41 @@
 # React-Portfolio
-# <Your-Project-Title>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 The goal of this project is to create a React portfolio application where employers are able to view my portfolio of work samples with my Contact information, Resume available for download and a brief About section of myself while also making the page as user-interactive as possible.
-## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+- [Features](#features)
+
 
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
+Usage of my web application is done when the portfolio is loaded. Afterwards, user is presented with a page containing a header, a section for content, and a footer which allows the user to view my name and navigation with titles corresponding to different sections of the portfolio. The user is also able to view the titles About, Portfolio, Contact, and Experience/Resume, and the title corresponding to the current section is highlighted
+ a navigation title is clicked.
 
-Provide instructions and examples for use. Include screenshots as needed.
+The Portfolio section contains titled images of six of my applications with links to both the deployed applications and the corresponding GitHub repositories.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The Contact section displays a contact form with fields for a name, an email address, and a message.
 
-    ```md
-    ![alt text](Assets/images/React-portfolio1.png)
+The Resume section enables user to access a downloadable resume.
 
-    ```
+The Footer section presents user with text or icon links to the my GitHub and LinkedIn profiles (I do not have one at the moment , however, the link provided directs user to linkedIn). I also do not have a twitter at the moment that I am able to direct user to. However, My Github profile link is attached.
+
+Below, are screenshots of how my web application currently looks like:
+
+[portfolio](Assets/images/React-portfolio1.png)
+[portfolio](Assets/images/React-portfolio2.png)
+[portfolio](Assets/images/React-portfolio3.png)
+
+
+    
 
 ## Credits
 
@@ -52,9 +54,7 @@ Features about my project include:
 - Footer that includes icon links to Github and LinkedInprofiles. At the moment, I do not have a linked in profile so i just attached the link to the general Linkedin page. I also do not have a twitter account. However, My Github profile link is attached.
 
 
-## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 
 
