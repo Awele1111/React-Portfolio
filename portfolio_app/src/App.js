@@ -5,6 +5,7 @@ import Socials from "./components/Socials";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Contactpage from "./components/Contactpage";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Socials/>
       <Experience/>
       <Contactpage/>
+      <Footer/>
     </div>
   );
 }

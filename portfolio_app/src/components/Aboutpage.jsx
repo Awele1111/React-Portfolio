@@ -35,6 +35,7 @@
 
 
 import React from "react";
+import aboutImage from "../assets/aboutImage.jpg";
 
 const About = () => {
   return (
@@ -52,10 +53,23 @@ const About = () => {
     
         <p className="text-white py-4 max-w-md">
           I am a software devloper with experience on how to utilize technologies 
-          such as React, Node.js, GraphQL, CSS libraries such Tailwind, materialize and others.
+          such as React, Node.js, GraphQL, CSS libraries such Tailwind, materialize and others. I am located in chicago, Illionois and I graduated from Northwestern Coding Bootcamp. I love to learn more about coding in my spare time.
          </p>
+         {/* <img
+            src={aboutImage}
+            alt="my profile"
+            className="rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer"
+          /> */}
+          <div>
+          <img
+            src={aboutImage}
+            alt="my profile"
+            className="rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer"
+          />
+        </div>
     
       </div>
+      
     </div>
   );
 };
