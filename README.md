@@ -14,7 +14,7 @@ The goal of this project is to create a React portfolio application where employ
 
 ## Installation
 
-This page was accomplished with technologies such as React. In order to add features to the application, I worked on adding cfeatures in the component folder of my react. I also utilised react icons. I utilized materialize as well in order to create the application.
+This page was accomplished with technologies such as React. In order to add features to the application, I worked on adding cfeatures in the component folder of my react. I also utilised react icons. I utilized Tailwind which is a css library as well in order to create the application.
 
 
 ## Usage
