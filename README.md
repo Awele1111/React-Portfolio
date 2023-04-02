@@ -39,6 +39,11 @@ Below, are screenshots of how my web application currently looks like:
 
 ![Portfolio](Assets/React-portfolio5.png)
 
+![Portfolio](Assets/React-portfolio6.png)
+
+
+
+
 
     
 
