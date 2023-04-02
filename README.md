@@ -14,7 +14,8 @@ The goal of this project is to create a React portfolio application where employ
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This page was accomplished with technologies such as React. In order to add features to the application, I worked on adding cfeatures in the component folder of my react. I also utilised react icons. I utilized materialize as well in order to create the application.
+
 
 ## Usage
 Usage of my web application is done when the portfolio is loaded. Afterwards, user is presented with a page containing a header, a section for content, and a footer which allows the user to view my name and navigation with titles corresponding to different sections of the portfolio. The user is also able to view the titles About, Portfolio, Contact, and Experience/Resume, and the title corresponding to the current section is highlighted
@@ -34,7 +35,9 @@ Below, are screenshots of how my web application currently looks like:
 
 ![Portfolio](Assets/React-portfolio2.png)
 
-![Portfolio](Assets/React-portfolio3.png)
+![Portfolio](Assets/React-portfolio4.png)
+
+![Portfolio](Assets/React-portfolio5.png)
 
 
     
