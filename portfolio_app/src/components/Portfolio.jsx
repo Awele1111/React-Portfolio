@@ -29,8 +29,8 @@
         {
           id: 4,
           src: Portfolio4,
-          demoLink: "https://awele1111.github.io/challenge-1-real/",
-          codeLink: "https://github.com/Awele1111/challenge-1-real"
+          demoLink: "https://awele1111.github.io/Code-refactoring/",
+          codeLink: "https://github.com/Awele1111/Code-refactoring"
         },
         {
           id: 5,
