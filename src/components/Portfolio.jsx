@@ -2,7 +2,7 @@
     import Portfolio1 from "../assets/Portfolio1.png";
     import Portfolio2 from "../assets/Portfolio2.png";
     import Portfolio3 from "../assets/Portfolio3.png";
-    // import Portfolio4 from "../assets/Portfolio4.png"; 
+    import Portfolio4 from "../assets/Portfolio4.png"; 
     import Portfolio5 from "../assets/Portfolio5.png";
     import Portfolio6 from "../assets/Portfolio6.png";
     
