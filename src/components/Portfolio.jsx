@@ -46,7 +46,7 @@
           codeLink: "https://github.com/Awele1111/portfolio"
         },
         {
-          id: 6,
+          id: 7,
           src: Portfolio6,
           demoLink: "https://jada-quiz-app.herokuapp.com/",
           codeLink: "https://github.com/Awele1111/portfolio"
