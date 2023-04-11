@@ -17,7 +17,7 @@
         {
           id: 2,
           src: Portfolio2,
-          demoLink: "https://awele1111.github.io/Note-taker/",
+          demoLink: "https://boiling-wildwood-27412.herokuapp.com/",
           codeLink: "https://github.com/Awele1111/Note-taker"
         },
         {
@@ -44,7 +44,14 @@
           src: Portfolio6,
           demoLink: "https://awele1111.github.io/portfolio/",
           codeLink: "https://github.com/Awele1111/portfolio"
-        }
+        },
+        {
+          id: 6,
+          src: Portfolio6,
+          demoLink: "https://jada-quiz-app.herokuapp.com/",
+          codeLink: "https://github.com/Awele1111/portfolio"
+        },
+
       ];
     
       return (
