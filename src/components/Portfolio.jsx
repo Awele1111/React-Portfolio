@@ -5,7 +5,7 @@ import React from "react";
     import Portfolio4 from "../assets/Portfolio4.png"; 
     import Portfolio5 from "../assets/Portfolio5.png";
     import Portfolio6 from "../assets/Portfolio6.png";
-
+    import Portfolio7 from "../assets/Portfolio7.png";
     const Portfolio = () => {
       const portfolios = [
         {
@@ -47,7 +47,7 @@ import React from "react";
         },
         {
           id: 7,
-          src: Portfolio6,
+          src: Portfolio7,
           demoLink: "https://jada-quiz-app.herokuapp.com/",
           codeLink: "https://github.com/Awele1111/portfolio"
         },
